@@ -1,0 +1,114 @@
+body {
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card {
+    color: white;
+    position: relative;
+    font-size: 16px;
+    margin: 20px !important;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.719);;
+}
+h1, p {
+    padding: 5px;
+}
+#card0 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    z-index: -1;
+    background-image: url('https://georgerrmartin.com/gallery/coverart/GOThcEng.jpg');
+    background-size: cover;
+}
+#card1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    z-index: -1;
+    background-image: url('https://georgerrmartin.com/gallery/art/kings15.jpg');
+    background-size: cover;
+}
+#card2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    z-index: -1;
+    background-image: url('https://georgerrmartin.com/gallery/coverart/SOSeng1.jpg');
+    background-size: cover;
+}
+#card3 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    z-index: -1;
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/c/ca/A_Knight_of_the_Seven_Kingdoms_cover.jpg');
+    background-size: cover;
+}
+#card4 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    z-index: -1;
+    background-image: url('https://assets.whsmith.co.uk/product-image/large/9780007447862-10-000_1.jpg');
+    background-size: cover;
+}
+#card5 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    z-index: -1;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f979527a-69e2-4fc5-baf2-be68711b5cb1/d4wc3oh-49dfaadc-efeb-4361-aa7c-010fc26fb704.png/v1/fill/w_600,h_600,q_80,strp/the_sworn_sword_cover_by_teews666_d4wc3oh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02MDAiLCJwYXRoIjoiXC9mXC9mOTc5NTI3YS02OWUyLTRmYzUtYmFmMi1iZTY4NzExYjVjYjFcL2Q0d2Mzb2gtNDlkZmFhZGMtZWZlYi00MzYxLWFhN2MtMDEwZmMyNmZiNzA0LnBuZyIsIndpZHRoIjoiPD02MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mMPB8mVfcOtpgbhxkDXn_ntYwMnqxoy38JoR5o63ImY');
+    background-size: cover;
+}
+#card6 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    z-index: -1;
+    background-image: url('https://lastfm.freetls.fastly.net/i/u/ar0/4a64bf15a1df4fdbcf53aa0fcfbacea5.jpg');
+    background-size: cover;
+}
+#card7 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    z-index: -1;
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/5/5d/A_Dance_With_Dragons_US.jpg');
+    background-size: cover;
+}
+#card8 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    z-index: -1;
+    background-image: url('https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440363536l/26152869._SY475_.jpg');
+    background-size: cover;
+}
+#card9 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    z-index: -1;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEAQXZuhtgG21QUlF-5CuUXdHB2jPTVAtw5w&usqp=CAU');
+    background-size: cover;
+}
